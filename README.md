@@ -1,4 +1,4 @@
-# TENGOCITY  
+# 10GOCITY  
 Progetto di elettronica per misurare l'umidità del terreno delle piante in vaso.  
 L'idea è quello di inserire un sensore di umidità del terreno di una pianta in un vaso (che abbiamo a casa) per rilevare l'eventuale bisogno di acqua.
 
